@@ -1,16 +1,24 @@
-## Hi there 👋
+## About Me
+# Hi, I'm Syed Auliya Mohiddin 👋
 
-<!--
-**Syed-Auliya/Syed-Auliya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+🎓 B.Sc. Computer Science Student (Graduated in 2026)
 
-Here are some ideas to get you started:
+📊 Aspiring Data Analyst
+💻 Skills:
+- PostgreSQL
+- Python (Pandas, NumPy)
+- Power BI
+- DAX
+- Excel
+- Power Query
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 Interested In:
+- Data Analytics
+- Business Intelligence
+- Dashboard Development
+- KPI Reporting
+
+📫 Connect with me:
+- LinkedIn: 
+- Email: syedauliya9177@gmail.com
