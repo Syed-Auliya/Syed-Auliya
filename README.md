@@ -20,5 +20,5 @@
 - KPI Reporting
 
 📫 Connect with me:
-- LinkedIn: 
+- LinkedIn: https://www.linkedin.com/in/syed-auliya
 - Email: syedauliya9177@gmail.com
