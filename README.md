@@ -2,13 +2,13 @@
 
 Hi, I'm Syed Auliya Mohiddin 👋
 
-🎓 B.Sc. Computer Science Graduate (2026)
+🎓 Bachelor of Science in Computer Science | Class of 2026
 
 📊 Aspiring Data Analyst with skills in SQL (PostgreSQL), Python (Pandas, NumPy), Power BI, DAX, Excel, and Power Query.
 
 🔍 Passionate about transforming raw data into meaningful insights through data cleaning, analysis, visualization, and dashboard development.
 
-📈 Experienced in building interactive Power BI dashboards, performing exploratory data analysis (EDA), creating KPI reports, and solving business problems using data.
+📈Built interactive Power BI dashboards and analytics projects involving EDA, KPI reporting, and business insights.
 
 🚀 Currently focused on strengthening my skills in advanced SQL, DAX, Python, and real-world analytics projects to start my career as a Data Analyst.
 
